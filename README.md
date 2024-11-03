@@ -24,4 +24,4 @@ Tippy is a simple and intuitive Android app for calculating tips quickly and acc
 Clone the repository and open it in Android Studio. Run Tippy on an emulator or physical device.
 
 ```bash
-git clone https://github.com/yourusername/tippy.git
+git clone https://github.com/Mahmoud-Hanyy/tippy.git
